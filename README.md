@@ -1,12 +1,7 @@
 ## Features
 
-- 🏆 **Compete with Friends**: Track progress and challenge friends to complete fitness tasks.
-- 🧍‍♂️ **3D Character**: A dynamic avatar mirrors your movements and shows real-time feedback.
-- 🎯 **Task-Based Rewards**: Complete tasks to earn points, rewards, and coupons.
-- 🏏 **Sports Awareness**: Learn about new sports, rules, and career opportunities from beginner to pro level.
-- 📍 **Event Suggestions**: Discover local fitness and sports events powered by external companies.
 - 💬 **AI Chat Support**: Chat with the AI assistant for help, guidance, and tips.
-- 🏥 **Hospital Features (if enabled)**: Patient booking, pharmacy billing, staff management, doctor consultation, and more.
+
 
 ## Technologies Used
 
