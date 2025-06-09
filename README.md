@@ -1,8 +1,3 @@
-
-# Pfit - Fitness Application
-
-**Pfit** is a next-generation fitness application designed to provide a gamified and socially engaging fitness experience. Users can track their activities, compete with friends, earn rewards, and gain awareness about different sports.
-
 ## Features
 
 - 🏆 **Compete with Friends**: Track progress and challenge friends to complete fitness tasks.
