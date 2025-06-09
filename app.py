@@ -82,7 +82,7 @@ def bot(input):
     from groq import Groq
 
     client = Groq(
-        api_key="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",
+        api_key="YOUR_API_KEY",
     )
     system_prom=(
         "You are an assistant for question-answering tasks"
